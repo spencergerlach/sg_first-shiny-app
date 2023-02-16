@@ -1,0 +1,11 @@
+name: first-app
+title:
+username:
+account: spencer-gerlach
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8332839
+bundleId: 6854494
+url: https://spencer-gerlach.shinyapps.io/first-app/
+when: 1676565542.58448
+lastSyncTime: 1676565542.58449
